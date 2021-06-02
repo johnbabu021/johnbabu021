@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @johnbabu021
-- 👀 I’m interested in Development,Programming
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Yeng
-- 📫 connect me through LinkedIn ,johnbabu021gmail.com
+- 👋 Hi, I’m @johnbabu021;
+- 👀 I’m interested in AI,machine learning;
+- 🌱 I’m currently a MERN stack developer;
+- 💞️ I’m looking to collaborate on Yeng,Android,linux;
+- 📫 connect me through LinkedIn ,johnbabu021gmail.com;
 
 <!---
 johnbabu021/johnbabu021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
