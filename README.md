@@ -12,7 +12,7 @@ Here my Blog Posts will appear soon...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbabu021&show_icons=true&title_color=00E6C7&bg_color=27292E&icon_color=00E6C7&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  [![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/johnbabu021)
+  [![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=johnbabu021&theme=xcode)](https://git.io/johnbabu021)
 
 
 <!-- 
