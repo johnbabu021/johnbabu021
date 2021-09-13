@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @johnbabu021;
-- 👀 I’m interested in AI,machine learning;
-- 🌱 I’m currently a MERN stack developer;
-- 💞️ I’m looking to collaborate on Yeng,Android,linux;
-- 📫 connect me through LinkedIn ,johnbabu021gmail.com;
-
-
-
+I'm intrested in opensource 
+looking for contributions
+learning mern stack
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbabu021&show_icons=true&title_color=00E6C7&bg_color=27292E&icon_color=00E6C7&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,7 +9,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnbabu021&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnbabu021&repo=github-readme-stats&title_color=00E6C7&bg_color=27292E&icon_color=00E6C7&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
