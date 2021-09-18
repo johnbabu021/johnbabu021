@@ -22,7 +22,7 @@ Here my Blog Posts will appear soon...
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnbabu021&title_color=00E6C7&bg_color=27292E&icon_color=00E6C7&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
 
 
 <!---
