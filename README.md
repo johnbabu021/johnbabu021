@@ -13,15 +13,15 @@ Here my Blog Posts will appear soon...
 
 
   [![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=johnbabu021&line=00E6C7&bg_color=27292E&color=FFFFFF&point=FFFFFF)](https://git.io/johnbabu021)
-<!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnbabu021)](https://github.com/anuraghazra/github-readme-stats)
+<!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnbabu021)](https://github.com/johnbabu021)
  -->
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnbabu021&layout=compact&title_color=00E6C7&bg_color=27292E&icon_color=00E6C7&text_color=FFFFFF)](https://github.com/binayakbishnu/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnbabu021&layout=compact&title_color=00E6C7&bg_color=27292E&icon_color=00E6C7&text_color=FFFFFF)](https://github.com/johnbabu021/)
 
 <!-- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnbabu021&repo=github-readme-stats&title_color=00E6C7&bg_color=27292E&icon_color=00E6C7&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnbabu021&repo=github-readme-stats&title_color=00E6C7&bg_color=27292E&icon_color=00E6C7&text_color=FFFFFF)](https://github.com/johnbabu021)
 
 
 
