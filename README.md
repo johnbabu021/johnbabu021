@@ -20,6 +20,9 @@ Here my Blog Posts will appear soon...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnbabu021&layout=compact&title_color=00E6C7&bg_color=27292E&icon_color=00E6C7&text_color=FFFFFF)](https://github.com/johnbabu021/)
 
+![Visitor Count](https://profile-counter.glitch.me/johnbabu021/count.svg)
+
+
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnbabu021&repo=github-readme-stats&title_color=00E6C7&bg_color=27292E&icon_color=00E6C7&text_color=FFFFFF)](https://github.com/johnbabu021)
 
