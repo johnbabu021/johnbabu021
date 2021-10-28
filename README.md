@@ -1,11 +1,8 @@
 
 
 
-
-
-I'm intrested in opensource <br>
-looking for contributions<br>
-learning mern stack<br>
+Opensourcerer
+MERN-CLI
 
 Here my Blog Posts will appear soon...
 
