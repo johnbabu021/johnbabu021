@@ -4,7 +4,6 @@
 Opensourcerer<br>
 MERN-CLI
 
-Here my Blog Posts will appear soon...
 
 
 
