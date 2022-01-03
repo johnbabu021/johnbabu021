@@ -18,3 +18,11 @@ MERN-CLI
 6. Contributed to [#46334](https://github.com/firstcontributions/first-contributions/pull/46334) in [firstcontributions/firstcontributions](https://github.com/firstcontributions/first-contributions)
 <!--4. 🎉 Merged PR [#16](https://github.com/johnbabu021/quiz-app/pull/16) in [FrancescoXX/100-days-of-Web3](https://github.com/johnbabu021/johnbabu021)
 <!--END_SECTION:activity-->
+
+
+## BLOG POSTS
+
+[how to start with opensource](https://dev.to/johnbabu021/how-to-start-with-open-source-m6e)
+
+[find more here](https://dev.to/johnbabu021)
+
