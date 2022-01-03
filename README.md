@@ -2,9 +2,8 @@
 
 
 Opensourcerer<br>
-MERN-CLI
-
-
+past-events
+[created first npm package](https://www.npmjs.com/package/@notealert/notealert)
 
 
  <a href="https://github.com/johnbabu021"><img src="https://github.com/johnbabu021/johnbabu021/blob/main/untitled-2_5.jpg" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
