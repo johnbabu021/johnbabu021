@@ -1,7 +1,4 @@
-
-
-
-Opensourcerer<br>
+I am a big opensource fan
 
 past-events
 <br>
