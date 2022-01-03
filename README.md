@@ -14,6 +14,5 @@ MERN-CLI
 2. ❌ Closed PR [#46](https://github.com/johnbabu021/quiz-app/pull/46) in [johnbabu021/quiz-app](https://github.com/johnbabu021/johnbabu021)
 3. . 🎉 Merged PR [#29](https://github.com/johnbabu021/quiz-app/pull/29) in [johnbabu021/quiz-app](https://github.com/johnbabu021/johnbabu021)
 4. 🎉 Merged PR [#16](https://github.com/johnbabu021/quiz-app/pull/16) in [FrancescoXX/100-days-of-Web3](https://github.com/johnbabu021/johnbabu021)
-5. 🗣 Commented on [#1](https://github.com/FrancescoXX/100-days-of-Web3/issues/1) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+<!--4. 🎉 Merged PR [#16](https://github.com/johnbabu021/quiz-app/pull/16) in [FrancescoXX/100-days-of-Web3](https://github.com/johnbabu021/johnbabu021)
 <!--END_SECTION:activity-->
-
