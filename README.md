@@ -7,7 +7,7 @@ MERN-CLI
 
 
 
-## <a href="https://github.com/johnbabu021"><img src="https://github.com/johnbabu021/johnbabu021/blob/main/untitled-2_5.jpg" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
+ <a href="https://github.com/johnbabu021"><img src="https://github.com/johnbabu021/johnbabu021/blob/main/untitled-2_5.jpg" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#42](https://github.com/johnbabu021/quiz-app/pull/42) in [johnbabu021/quiz-app](https://github.com/johnbabu021/quiz-app)
@@ -20,7 +20,7 @@ MERN-CLI
 <!--END_SECTION:activity-->
 
 
-## BLOG POSTS
+BLOG POSTS
 
 [how to start with opensource](https://dev.to/johnbabu021/how-to-start-with-open-source-m6e)
 
