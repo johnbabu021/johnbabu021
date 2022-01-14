@@ -6,7 +6,7 @@ past-events
 [created first npm package](https://www.npmjs.com/package/@notealert/notealert)
 
 
- <a href="https://github.com/johnbabu021"><img src="https://github.com/johnbabu021/johnbabu021/blob/main/untitled-2_5.jpg" title="GitHub" alt="GitHub" width="30"/></a> Recent Activities on GitHub
+## my recent Github Activities
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#384](https://github.com/thinkswell/javascript-mini-projects/pull/384) in [thinkswell/javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
