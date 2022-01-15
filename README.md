@@ -18,10 +18,11 @@ past-events
 <!--4. 🎉 Merged PR [#16](https://github.com/johnbabu021/quiz-app/pull/16) in [FrancescoXX/100-days-of-Web3](https://github.com/johnbabu021/johnbabu021)
 <!--END_SECTION:activity-->
 
-
-BLOG POSTS
+## Blog:
 
 [how to start with opensource](https://dev.to/johnbabu021/how-to-start-with-open-source-m6e)
+[What is React must be in scope??](https://dev.to/johnbabu021/what-is-react-must-be-in-scope-56fd)
+[What is the use of UseMemo](https://dev.to/johnbabu021/what-is-the-use-of-usememo-4aee)
 
 [find more here](https://dev.to/johnbabu021)
 
