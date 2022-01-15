@@ -22,7 +22,7 @@ past-events
 
 - [how to start with opensource](https://dev.to/johnbabu021/how-to-start-with-open-source-m6e)
 - [What is React must be in scope??](https://dev.to/johnbabu021/what-is-react-must-be-in-scope-56fd)
-[What is the use of UseMemo](https://dev.to/johnbabu021/what-is-the-use-of-usememo-4aee)
+- [What is the use of UseMemo](https://dev.to/johnbabu021/what-is-the-use-of-usememo-4aee)
 
 [find more here](https://dev.to/johnbabu021)
 
