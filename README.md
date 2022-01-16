@@ -1,12 +1,13 @@
 I am a big opensource fan
 trying to create tools for devlepers
 
-past-events
+**Past Events**
+<br>
 <br>
 [created first npm package](https://www.npmjs.com/package/@notealert/notealert)
+[Brought first computer](https://www.github.com/johnbabu021)
 
-
-## my recent Github Activities
+**Recent Activities**
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#384](https://github.com/thinkswell/javascript-mini-projects/pull/384) in [thinkswell/javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
@@ -18,7 +19,7 @@ past-events
 <!--4. 🎉 Merged PR [#16](https://github.com/johnbabu021/quiz-app/pull/16) in [FrancescoXX/100-days-of-Web3](https://github.com/johnbabu021/johnbabu021)
 <!--END_SECTION:activity-->
 
-## Blog:
+**BLog**
 
 - [how to start with opensource](https://dev.to/johnbabu021/how-to-start-with-open-source-m6e)
 - [What is React must be in scope??](https://dev.to/johnbabu021/what-is-react-must-be-in-scope-56fd)
