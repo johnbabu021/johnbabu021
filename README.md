@@ -6,8 +6,7 @@ trying to create tools for devlepers
 <br>
 [created first npm package](https://www.npmjs.com/package/@notealert/notealert)
 <br>
-[participated in Hacktoberfest](htthttps://hacktoberfest.digitalocean.com)
-
+[participated in Hacktoberfest](https://hacktoberfest.digitalocean.com)
 [Brought first computer](https://www.github.com/johnbabu021)
 
 **Recent Activities**
