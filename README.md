@@ -24,6 +24,7 @@ past-events
 - [What is React must be in scope??](https://dev.to/johnbabu021/what-is-react-must-be-in-scope-56fd)
 - [What is the use of UseMemo](https://dev.to/johnbabu021/what-is-the-use-of-usememo-4aee)
 - [I have created a Quiz-game Ecosystem](https://johnbabu.hashnode.dev/i-created-quiz-app-a-quiz-game-ecosystem)
+- [SweetGradients -A Platform where you can find out color graidents easily](https://johnbabu.hashnode.dev/i-created-sweetgradients-a-color-gradient-ecosystem)
 
 [dev.to](https://dev.to/johnbabu021)
 [hashnode](https://hashnode.com/@johnbabu021)
