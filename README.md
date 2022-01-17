@@ -4,10 +4,8 @@ trying to create tools for devlepers
 **Past Events**
 <br>
 <br>
-[created first npm package](https://www.npmjs.com/package/@notealert/notealert)
-<br>
-[participated in Hacktoberfest](https://hacktoberfest.digitalocean.com)
-
+[created first npm package](https://www.npmjs.com/package/@notealert/notealert)<br>
+[participated in Hacktoberfest](https://hacktoberfest.digitalocean.com)<br>
 [Brought first computer](https://www.github.com/johnbabu021)
 
 **Recent Activities**
@@ -22,7 +20,7 @@ trying to create tools for devlepers
 <!--4. 🎉 Merged PR [#16](https://github.com/johnbabu021/quiz-app/pull/16) in [FrancescoXX/100-days-of-Web3](https://github.com/johnbabu021/johnbabu021)
 <!--END_SECTION:activity-->
 
-**BLog**
+**Blog**
 
 - [how to start with opensource](https://dev.to/johnbabu021/how-to-start-with-open-source-m6e)
 - [What is React must be in scope??](https://dev.to/johnbabu021/what-is-react-must-be-in-scope-56fd)
@@ -30,6 +28,6 @@ trying to create tools for devlepers
 - [I have created a Quiz-game Ecosystem](https://johnbabu.hashnode.dev/i-created-quiz-app-a-quiz-game-ecosystem)
 - [SweetGradients -A Platform where you can find out color graidents easily](https://johnbabu.hashnode.dev/i-created-sweetgradients-a-color-gradient-ecosystem)
 
-[dev.to](https://dev.to/johnbabu021)
+[dev.to](https://dev.to/johnbabu021)<br>
 [hashnode](https://hashnode.com/@johnbabu021)
 
