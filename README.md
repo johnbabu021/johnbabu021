@@ -16,7 +16,7 @@ trying to create tools for devlepers
 - Merged PR [#29](https://github.com/johnbabu021/quiz-app/pull/29) in [johnbabu021/quiz-app](https://github.com/johnbabu021/quiz-app)
 - Merged PR [#16](https://github.com/johnbabu021/quiz-app/pull/16) in [johnbabu021/quiz-app](https://github.com/johnbabu021/johnbabu021)
 - Merged PR  [#32](https://github.com/johnbabu021/quiz-app/pull/16) in [johnbabu021/quiz-app](https://github.com/johnbabuo21/quiz-app)
-6. 🎉 Merged PR [#46334](https://github.com/firstcontributions/first-contributions/pull/46334) in [firstcontributions/firstcontributions](https://github.com/firstcontributions/first-contributions)
+- Merged PR [#46334](https://github.com/firstcontributions/first-contributions/pull/46334) in [firstcontributions/firstcontributions](https://github.com/firstcontributions/first-contributions)
 <!--4. 🎉 Merged PR [#16](https://github.com/johnbabu021/quiz-app/pull/16) in [FrancescoXX/100-days-of-Web3](https://github.com/johnbabu021/johnbabu021)
 <!--END_SECTION:activity-->
 
