@@ -11,11 +11,11 @@ trying to create tools for devlepers
 **Recent Activities**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#384](https://github.com/thinkswell/javascript-mini-projects/pull/384) in [thinkswell/javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
-2. ❌ Closed PR [#46](https://github.com/johnbabu021/quiz-app/pull/46) in [johnbabu021/quiz-app](https://github.com/johnbabu021/quiz-app)
-3. 🎉 Merged PR [#29](https://github.com/johnbabu021/quiz-app/pull/29) in [johnbabu021/quiz-app](https://github.com/johnbabu021/quiz-app)
-4. 🎉 Merged PR [#16](https://github.com/johnbabu021/quiz-app/pull/16) in [johnbabu021/quiz-app](https://github.com/johnbabu021/johnbabu021)
-5. 🎉Merged PR  [#32](https://github.com/johnbabu021/quiz-app/pull/16) in [johnbabu021/quiz-app](https://github.com/johnbabuo21/quiz-app)
+- Merged PR [#384](https://github.com/thinkswell/javascript-mini-projects/pull/384) in [thinkswell/javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
+- Closed PR [#46](https://github.com/johnbabu021/quiz-app/pull/46) in [johnbabu021/quiz-app](https://github.com/johnbabu021/quiz-app)
+- Merged PR [#29](https://github.com/johnbabu021/quiz-app/pull/29) in [johnbabu021/quiz-app](https://github.com/johnbabu021/quiz-app)
+- Merged PR [#16](https://github.com/johnbabu021/quiz-app/pull/16) in [johnbabu021/quiz-app](https://github.com/johnbabu021/johnbabu021)
+- Merged PR  [#32](https://github.com/johnbabu021/quiz-app/pull/16) in [johnbabu021/quiz-app](https://github.com/johnbabuo21/quiz-app)
 6. 🎉 Merged PR [#46334](https://github.com/firstcontributions/first-contributions/pull/46334) in [firstcontributions/firstcontributions](https://github.com/firstcontributions/first-contributions)
 <!--4. 🎉 Merged PR [#16](https://github.com/johnbabu021/quiz-app/pull/16) in [FrancescoXX/100-days-of-Web3](https://github.com/johnbabu021/johnbabu021)
 <!--END_SECTION:activity-->
