@@ -10,3 +10,11 @@ I'm into React,Node,Design systems and accessibility,Microservices,container orc
    >>sweetgradients created for ui/ux designers to integrate with their applications
 > * **[quizzy](https://quizzy-flax.vercel.app)**
    >>quizzy allows anyone to host exams online
+
+
+### upcoming projects
+ >> * **[playon](https://play-on.vercel.app)**<br>
+   >>online music studio
+ >> * **[alphine](https://alphine.vercel.app)**<br>
+   >>visual studio theme extension
+   
